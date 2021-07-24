@@ -3,6 +3,7 @@
 Description:
 This assignment is a simple calendar application that allows a user to save events for each hour of the day. 
 It runs in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+Link to the application: https://anamika0212.github.io/Workday-Schedular/Develop/index.html
 
 Deployable link: https://github.com/anamika0212/Workday-Schedular/tree/develop
 
